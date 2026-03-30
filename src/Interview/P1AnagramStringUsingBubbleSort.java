@@ -42,9 +42,7 @@ public class P1AnagramStringUsingBubbleSort {
 				}
 			}
 		}
-
 	}
-
 	public static boolean isEquals(char[] arr1, char[] arr2) {
 		if (arr1.length != arr2.length) {
 			return false;
